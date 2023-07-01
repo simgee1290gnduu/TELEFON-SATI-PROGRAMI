@@ -1,5 +1,5 @@
 # TELEFON-SATIŞ-PROGRAMI
-satış dükkanında bulunan telefonların satış ve müşteri  bilgilerini kayıt altına alınması ve takibinin yapılması amacıyla hazırlanmış access veri tabanını kullanan bir program.
+satış dükkanında bulunan telefonların satış ve müşteri  bilgilerini kayıt altına alınması ve takibinin yapılması amacıyla hazırlanan C# access veri tabanını kullanan bir program.
 telefonların ve satışı yapılan müşterilerin bilgileri access veri tabanında yapılmaktadır. Veri tabanı üzerinde kayıt ekleme, kayıt silme, kayıt listeleme, kayıt arama ve kayıt güncelleme işlemleri yapılmaktadır.
 Öncelikle veri tabanında bulunan tablonun alanlarını ve veri türlerini yazıyorum.
 
